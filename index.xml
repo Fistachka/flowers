@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>flowers</repo>
-  <version>v1.0.0</version>
-  <next number="1" owner="Fistachka" repo="trava2"/>
+  <version>v1.0.1</version>
+  <next number="1" owner="Fistachka" repo="kaleidoscope"/>
   <readme>
-    <ru>01c0c46cf509841c5a8b6ccca3e8c6e3d48fc1f1b2e3cc2df883b86a8ae31ccd</ru>
-    <en>bdd81699a9785c866e9681354630d7228b19d027c4f4ea8761599c91cb3c901b</en>
+    <ru>81f9cb4626b1e1aab3bf0b6070f6df03329d950ea3acf9560f7bfd6f1de50e1c</ru>
+    <en>6c6689b1113dd66c21809aad871ef24f657f3dc0356c66e47e83c617acc89062</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
