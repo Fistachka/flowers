@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>flowers</repo>
-  <version>v1.0.8</version>
+  <version>v1.0.9</version>
   <next number="1" owner="Fistachka" repo="flamingo"/>
   <readme>
-    <ru>81f9cb4626b1e1aab3bf0b6070f6df03329d950ea3acf9560f7bfd6f1de50e1c</ru>
-    <en>6c6689b1113dd66c21809aad871ef24f657f3dc0356c66e47e83c617acc89062</en>
+    <ru>ec4526aa48a15a70fc2776c263d46d5ebd87585b97ae6d8c6531b815610cc7ca</ru>
+    <en>3131a9d11e8b6c74e9ade6e56138cc2e7464c8b488192d042483ef405462a61a</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
